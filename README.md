@@ -30,7 +30,7 @@ I don't know what am doing on Quora but it's a safe Nerd space with a lot of psy
 [![X](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white)](https://twitter.com/OwalaCheryl)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheryl-owala-423731191/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_cherylowala)
-[![Medium](https://img.shields.io/badge/-Medium-purple?style=flat-square&logo=medium&logoColor=white)](https://medium.com/_owalacheryl)
+[![Medium](https://img.shields.io/badge/-Medium-purple?style=flat-square&logo=medium&logoColor=white)](https://medium.com/owalacheryl)
 
 
 
