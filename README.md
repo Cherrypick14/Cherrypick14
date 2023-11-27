@@ -23,7 +23,7 @@ I don't know what am doing on Quora but it's a safe Nerd space with a lot of psy
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-  ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=golang)
+  ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=golang)
   
 
 
