@@ -5,11 +5,11 @@
 ### Hi there. Cheryl here 👋
 Passionate Software Developer. Currently learning Web3 @[Alchemy](https://www.alchemy.com/). AI enthusiast. Developer @[DecOps](https://www.linkedin.com/company/decops/mycompany/). OPen SOurce explOre.
 
-Check out my medium article on AI and its future possibilities @ https://medium.com/@owalacheryl/ai-and-its-future-possibilities-41ba7d9d0898
+Blogging out @ https://substack.com/@cheryldev
 
 ## 🌟 Fun Fact:
-~ When not coding, I explore Quora Community
-~ Just COughEee
+~ When not coding, I delve into the intriguing world of Quora discussions, exploring a myriad of topics and perspectives shared by the diverse Quora Community.
+~  I have a unique and somewhat contagious way of laughing – it's often affectionately known as "Just COughEee." Laughter truly is the best medicine, and a touch of humor keeps the coding journey enjoyable! 😄
 
 ## 🛠 Tech Stack
 
