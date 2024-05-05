@@ -1,4 +1,4 @@
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical)        ![Loading Animation](https://media0.giphy.com/media/m6OomwWCojfS8/giphy.gif?cid=ecf05e47k578dhpegnsl5tgmwpp5d9m22ujpozqc3mu3thvr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical)        ![Loading Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwb2U5YW1qcGJ6a3JrN3RvbG41enp1anRhenU0aGtvcXR3cHg5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uoguECq07AsQWwehg7/giphy.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherrypick14&theme=radical)](https://github.com/Cherrypick14/github-readme-stats)
 
