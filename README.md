@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherrypick14&theme=radical)](https://github.com/Cherrypick14/github-readme-stats)
 
 ### Hi there. Cheryl here 👋
-Passionate Software Developer. Currently learning Web3 @[Alchemy](https://www.alchemy.com/). AI enthusiast.Apprentice SD @[Zone01Kisumu](https://www.linkedin.com/company/zone01kisumu/mycompany/verification/)). OPen SOurce explOre.
+Passionate Software Developer. Exploring Web3 @[Alchemy](https://www.alchemy.com/). AI enthusiast.Apprentice SD @[Zone01Kisumu](https://www.linkedin.com/company/zone01kisumu/mycompany/verification/)). OPen SOurce explOre.
 
 Blogging out @ https://substack.com/@cheryldev
 
