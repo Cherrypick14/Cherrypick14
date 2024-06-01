@@ -3,13 +3,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherrypick14&theme=radical)](https://github.com/Cherrypick14/github-readme-stats)
 
 ### Hi there. Cheryl here 👋
-Passionate Software Developer. Exploring Web3 @[Alchemy](https://www.alchemy.com/). AI enthusiast.Apprentice SD @[Zone01Kisumu](https://www.linkedin.com/company/zone01kisumu/mycompany/verification/)). OPen SOurce explOre.
+Passionate Software Developer. Exploring Web3 @[Alchemy](https://www.alchemy.com/). AI enthusiast.Apprentice SD @[Zone01Kisumu](https://www.linkedin.com/company/zone01kisumu/mycompany/verification/). OPen SOurce explOre.
 
-Blogging out @ https://substack.com/@cheryldev
+## Older Contributions
+  
+  🔖 Technical Articles
+  
+[  Dev.to](https://dev.to/cherrypick14)
 
-## 🌟 Fun Fact:
-~ When not coding, I delve into the intriguing world of Quora discussions, exploring a myriad of topics and perspectives shared by the diverse Quora Community.
-~  I have a unique and somewhat contagious way of laughing – it's often affectionately known as "Just COughEee." Laughter truly is the best medicine, and a touch of humor keeps the coding journey enjoyable! 😄
+  -  [Demystifying Regex in Golang](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
+  -  [How to pull from a remote repository](https://dev.to/cherrypick14/how-to-pull-from-a-remote-repository-2g52)
+  -  [Serving your static files with express](https://dev.to/cherrypick14/serving-your-static-files-with-express-5g00)
+
+[Substack](https://substack.com/@cheryldev)
+
 
 ## 🛠 Tech Stack
 
@@ -24,6 +31,9 @@ Blogging out @ https://substack.com/@cheryldev
   ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=golang)
 
   
+## 🌟 Fun Fact:
+~ When not coding, I delve into the intriguing world of Quora discussions, exploring a myriad of topics and perspectives shared by the diverse Quora Community.
+~  I have a unique and somewhat contagious way of laughing – it's often affectionately known as "Just COughEee." Laughter truly is the best medicine, and a touch of humor keeps the coding journey enjoyable! 😄
 
 
 ## 🌐 Connect with me:
