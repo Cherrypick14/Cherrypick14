@@ -12,7 +12,7 @@ A fervent software developer, embarking on the exciting realm of Web3 with @[Alc
   - API Artisan: Designing and building robust APIs that seamlessly connect the dots between different parts of a system.
   - Golang Guru: Writing in-depth technical articles on Golang, sharing knowledge and contributing to the developer community.
   - Backend Architect: Constructing scalable and efficient backend systems that power dynamic web applications.
-  - 
+    
 ### 🚀 Projects and Contributions
 
   - Tech Talk Tavern: Publishing comprehensive technical articles primarily focusing on Golang, to educate and inspire fellow developers.
