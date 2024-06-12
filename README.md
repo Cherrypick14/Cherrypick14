@@ -51,9 +51,9 @@ Discover my technical articles covering Golang debugging and Express file servin
 ## 🌐 Connect with me:
 Let's build the future together, one line of code at a time. Connect with me on:
 
-Github :  Dive into my code cave and explore the wonders : https://github.com/Cherrypick14
-Linkedin : Let's connect and expand our professional networks : https://www.linkedin.com/in/cheryl-owala-423731191/  
-X(Twitter) : Join me on a journey of tech insights, memes, and occasional cat gifs: https://x.com/OwalaCheryl
+- Github :  Dive into my code cave and explore the wonders : [Github](https://github.com/Cherrypick14)
+- Linkedin : Let's connect and expand our professional networks : [Linkedin]( https://www.linkedin.com/in/cheryl-owala-423731191/)
+- X(Twitter) : Join me on a journey of tech insights, memes, and occasional cat gifs: [X](https://x.com/OwalaCheryl)
 
 
 <!--
