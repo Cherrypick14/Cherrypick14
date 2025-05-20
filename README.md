@@ -35,13 +35,11 @@ Discover my technical articles covering Golang debugging and Express file servin
   -  [How to pull from a remote repository](https://dev.to/cherrypick14/how-to-pull-from-a-remote-repository-2g52)
   -  [Serving your static files with express](https://dev.to/cherrypick14/serving-your-static-files-with-express-5g00)
 
-[Substack](https://substack.com/@cheryldev)
-
 
 ## 🛠 Tech Stack
 
 - **Frontend:** React
-- **Backend:** Solidity, Python, Node.js, Express.js, Golang
+- **Backend:** Solidity, Python, Node.js,Rust,Golang
   
 ## 🌟 Fun Fact:
 
