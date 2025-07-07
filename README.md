@@ -28,6 +28,7 @@ Discover my technical articles covering Golang debugging and Express file servin
   
 [  Dev.to](https://dev.to/cherrypick14)
 
+  -  [5 Key Rust Concepts for Building on Polkadot](https://dev.to/cherrypick14/5-rust-concepts-you-must-understand-when-building-on-polkadot-2f4o)
   -  [Strategies for debugging immutable code in Golang](https://dev.to/cherrypick14/strategies-for-debugging-immutable-code-1a8b)
   -  [Demystifying Regex in Golang](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
   -  [How to pull from a remote repository](https://dev.to/cherrypick14/how-to-pull-from-a-remote-repository-2g52)
