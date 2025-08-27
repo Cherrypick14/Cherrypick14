@@ -1,7 +1,7 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical)        
 
 ### Hi there. Cheryl here 👋
-A fervent software developer, embarking on the exciting realm of Web3 with @[Alchemy](https://www.alchemy.com/) An AI enthusiast, I'm also honing my skills as an Apprentice SD at @[Zone01Kisumu](https://www.linkedin.com/company/zone01kisumu/mycompany/verification/), while constantly venturing into the world of OPen SOurce explOration.
+A fervent software developer, embarking on the exciting realm of Web3 with @[Alchemy](https://www.alchemy.com/) An AI enthusiast. Constantly venturing into the world of OPen SOurce explOration.
 
 ### 🛠️ My Tech Playground
 🌟 Full Stack Maestro
@@ -50,7 +50,7 @@ Let's build the future together, one line of code at a time. Connect with me on:
 
 - Github :  Dive into my code cave and explore the wonders : [Github](https://github.com/Cherrypick14)
 - Linkedin : Let's connect and expand our professional networks : [Linkedin]( https://www.linkedin.com/in/cheryl-owala-423731191/)
-- X(Twitter) : Join me on a journey of tech insights, memes, and occasional cat gifs: [X](https://x.com/OwalaCheryl)
+- X(Twitter) : Join me on a journey of tech insights, Open source contributions (Build in Public and get feedback) : [X](https://x.com/OwalaCheryl)
 
 
 <!--
