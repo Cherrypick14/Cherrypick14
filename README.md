@@ -1,4 +1,4 @@
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical)        
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&visible=contribs&card_width=465)
 
 ### Hi there. Cheryl here 👋
 A fervent software developer, embarking on the exciting realm of Web3 with @[Alchemy](https://www.alchemy.com/) An AI enthusiast. Constantly venturing into the world of OPen SOurce explOration.
