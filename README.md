@@ -8,7 +8,7 @@ A fervent software developer, embarking on the exciting realm of Web3 with @[Alc
 
   - Frontend Alchemist: Crafting visually stunning and interactive frontend applications that bring ideas to life.
   - API Artisan: Designing and building robust APIs that seamlessly connect the dots between different parts of a system.
-  - Golang Guru: Writing in-depth technical articles on Golang, sharing knowledge and contributing to the developer community.
+  - Rust Architect: Designing and explaining Rust concepts with clarity for the developer community.
   - Backend Architect: Constructing scalable and efficient backend systems that power dynamic web applications.
     
 ### 🚀 Projects and Contributions
