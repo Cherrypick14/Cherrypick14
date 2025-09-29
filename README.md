@@ -37,7 +37,7 @@ Discover my technical articles covering Golang debugging and Express file servin
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React
+- **Frontend:** React, Astro
 - **Backend:** Solidity, Python, Node.js,Rust,Golang
   
 ## 🌟 Fun Fact:
