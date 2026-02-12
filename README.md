@@ -1,70 +1,35 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&visible=contribs&card_width=465)
 
-### Hi there. Cheryl here 👋
-A fervent software developer, embarking on the exciting realm of Web3 with @[Alchemy](https://www.alchemy.com/) An AI enthusiast. Constantly venturing into the world of OPen SOurce explOration.
+# Hey, I'm Cheryl 👋
 
-### 🛠️ My Tech Playground
-🌟 Full Stack Maestro
+Rust systems engineer building blockchain infrastructure. PBA-X graduate currently nerding out on Solana protocol development.
 
-  - Frontend Alchemist: Crafting visually stunning and interactive frontend applications that bring ideas to life.
-  - API Artisan: Designing and building robust APIs that seamlessly connect the dots between different parts of a system.
-  - Rust Architect: Designing and explaining Rust concepts with clarity for the developer community.
-  - Backend Architect: Constructing scalable and efficient backend systems that power dynamic web applications.
-    
-### 🚀 Projects and Contributions
+**🦀 Rust |  🔗 Blockchain Infra**
 
-  - Tech Talk Tavern: Publishing comprehensive technical articles primarily focusing on Golang, to educate and inspire fellow developers.
-  - Web Wizardry: Developing sleek, responsive web applications using modern frontend frameworks and technologies.
-  - Open Source Crusader: Contributing to open source projects, collaborating with the community, and making the tech world a better place.
+---
 
-### 🧠 Learning and Experimentation
-  - Framework Fanatic: Continuously exploring new frontend frameworks and libraries to stay ahead of the curve.
-  - Tech Tinkerer: Always on the lookout for the next exciting technology to play with and integrate into my projects.
+## 🔧 What I work with
 
-## Older Contributions
-Discover my technical articles covering Golang debugging and Express file serving on platforms like Dev.to and Substack.
-  
-  🔖 Technical Articles
-  
-[  Dev.to](https://dev.to/cherrypick14)
+Rust  |   Solidity |  TypeScript |  Go  |  Docker |  PostgreSQL
 
-  -  [How to build a real-time blockchain dashboard with Polkadot-API (PAPI)](https://dev.to/cherrypick14/how-to-build-a-real-time-blockchain-dashboard-with-papi-44d3)
-  -  [5 Key Rust Concepts for Building on Polkadot](https://dev.to/cherrypick14/5-rust-concepts-you-must-understand-when-building-on-polkadot-2f4o)
-  -  [Strategies for debugging immutable code in Golang](https://dev.to/cherrypick14/strategies-for-debugging-immutable-code-1a8b)
-  -  [Demystifying Regex in Golang](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
-  -  [How to pull from a remote repository](https://dev.to/cherrypick14/how-to-pull-from-a-remote-repository-2g52)
-  -  [Serving your static files with express](https://dev.to/cherrypick14/serving-your-static-files-with-express-5g00)
+---
 
+## ✍️ What I write about
 
-## 🛠 Tech Stack
+**Blockchain & Rust:**
+- [Building Real-Time Blockchain Dashboard with PAPI](https://dev.to/cherrypick14/how-to-build-a-real-time-blockchain-dashboard-with-papi-44d3)
+- [5 Rust Concepts for Polkadot Development](https://dev.to/cherrypick14/5-rust-concepts-you-must-understand-when-building-on-polkadot-2f4o)
+- [Understanding secp256k1 Multisig Wallets](https://dev.to/cherrypick14/understanding-secp256k1-multisig-wallets-3ofj)
 
-- **Frontend:** React, Astro
-- **Backend:** Solidity, Python, Node.js,Rust,Golang
-  
-## 🌟 Fun Fact:
+**Systems:**
+- [Debugging Immutable Code in Golang](https://dev.to/cherrypick14/strategies-for-debugging-immutable-code-1a8b)
 
-"When I'm not coding, I'm diving into the captivating world of Quora discussions, exploring a wide array of topics and viewpoints from the vibrant Quora Community. Plus, I've got a knack for solving puzzles that rivals even the most seasoned detectives – it's all about keeping the brain cells buzzing!"
+---
 
+## 📫 Let's connect
 
-## 🌐 Connect with me:
-Let's build the future together, one line of code at a time. Connect with me on:
+- **Email:** owalacheryl@gmail.com
+- **LinkedIn:** [cheryl-owala](https://www.linkedin.com/in/cheryl-owala-423731191/)
+- **X:** [@OwalaCheryl](https://x.com/OwalaCheryl)
 
-- Github :  Dive into my code cave and explore the wonders : [Github](https://github.com/Cherrypick14)
-- Linkedin : Let's connect and expand our professional networks : [Linkedin]( https://www.linkedin.com/in/cheryl-owala-423731191/)
-- X(Twitter) : Join me on a journey of tech insights, Open source contributions (Build in Public and get feedback) : [X](https://x.com/OwalaCheryl)
-
-
-<!--
-**Cherrypick14/Cherrypick14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring Solana validator infrastructure and always down to chat about Rust, distributed systems, or anything blockchain. Open to systems engineering roles building the future of Web3.
