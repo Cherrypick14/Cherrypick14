@@ -1,5 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherrypick14&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&visible=contribs&card_width=465)
-
 # Hey, I'm Cheryl 👋
 
 Rust systems engineer building blockchain infrastructure. PBA-X graduate currently nerding out on Solana protocol development.
@@ -28,8 +26,7 @@ Rust  |   Solidity |  TypeScript |  Go  |  Docker |  PostgreSQL
 
 ## 📫 Let's connect
 
-- **Email:** owalacheryl@gmail.com
-- **LinkedIn:** [cheryl-owala](https://www.linkedin.com/in/cheryl-owala-423731191/)
+- **LinkedIn:** [Cheryl-Owala](https://www.linkedin.com/in/cheryl-owala-423731191/)
 - **X:** [@OwalaCheryl](https://x.com/OwalaCheryl)
 
-Currently exploring Solana validator infrastructure and always down to chat about Rust, distributed systems, or anything blockchain. Open to systems engineering roles building the future of Web3.
+Always down to chat about Rust, distributed systems, or anything blockchain. Open to systems engineering roles building the future of Web3.
