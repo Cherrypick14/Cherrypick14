@@ -29,4 +29,4 @@ Rust  |   Solidity |  TypeScript |  Go  |  Docker |  PostgreSQL
 - **LinkedIn:** [Cheryl-Owala](https://www.linkedin.com/in/cheryl-owala-423731191/)
 - **X:** [@OwalaCheryl](https://x.com/OwalaCheryl)
 
-Always down to chat about Rust, distributed systems, or anything blockchain. Open to systems engineering roles building the future of Web3.
+Always down to chat about Rust, distributed systems, or anything blockchain.
