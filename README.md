@@ -18,6 +18,8 @@ Rust  |   Solidity |  TypeScript |  Go  |  Docker |  PostgreSQL
 - [Building Real-Time Blockchain Dashboard with PAPI](https://dev.to/cherrypick14/how-to-build-a-real-time-blockchain-dashboard-with-papi-44d3)
 - [5 Rust Concepts for Polkadot Development](https://dev.to/cherrypick14/5-rust-concepts-you-must-understand-when-building-on-polkadot-2f4o)
 - [Understanding secp256k1 Multisig Wallets](https://dev.to/cherrypick14/understanding-secp256k1-multisig-wallets-3ofj)
+- [Trade-offs in indexing Solana at Scale ](https://dev.to/cherrypick14/trade-offs-in-indexing-solana-at-scale-4hoh)
+
 
 **Systems:**
 - [Debugging Immutable Code in Golang](https://dev.to/cherrypick14/strategies-for-debugging-immutable-code-1a8b)
